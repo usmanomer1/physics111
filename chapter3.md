@@ -2,20 +2,64 @@
 
 Below are the assigned videos for this week. The videos are linked below, and you can click on them to watch.
 
-- [**Introduction to DisplacementÂ and the Differences Between Displacement and Distance**](https://www.flippingphysics.com/introduction-to-displacement.html)
-  - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0007_lecture_notes_-_displacement_versus_distance.pdf)
+## Summary of Calculus from Crash Course Physics (Optional but recommended)
 
-- [**Introduction to Velocity and SpeedÂ and the differences between the two**](https://www.flippingphysics.com/introduction-to-velocity-and-speed.html)
-  - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0008_lecture_notes_-_introduction_to_velocity_and_speed.pdf)
+### Derivatives
+[![Derivatives](https://img.youtube.com/vi/ObHJJYvu3RE/0.jpg)](https://www.youtube-nocookie.com/embed/ObHJJYvu3RE)
 
-- [**Average Velocity Example ProblemÂ with Three Velocities**](https://www.flippingphysics.com/average-velocity-example-problem-with-three-velocities.html)
-  - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0009_lecture_notes_-_average_velocity_example_problem_with_three_velocities.pdf)
+### Integrals
+[![Integrals](https://img.youtube.com/vi/jLJLXka2wEM/0.jpg)](https://www.youtube-nocookie.com/embed/jLJLXka2wEM)
 
-- [**Example Problem:Â Velocity and Speed are Different**](https://www.flippingphysics.com/example-problem-velocity-and-speed-are-different.html)
-  - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0010_lecture_notes_-_example_problem_-_velocity_and_speed_are_different.pdf)
+## Required Videos
 
-- [**Understanding and WalkingÂ Position as a function of Time Graphs**](https://www.flippingphysics.com/understanding-and-walking-graphs-of-position-as-a-function-of-time.html)
-  - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0011_lecture_notes_-_understanding_walking_and_graphing_position_as_a_function_of_time.pdf)
+### 1. Vectors and 2D Motion
+[![Vectors and 2D Motion](https://img.youtube.com/vi/w3BhzYI6zXU/0.jpg)](https://www.youtube-nocookie.com/embed/w3BhzYI6zXU)
 
-- [**Example Problem: Finding Average Speed for Pole Position**](https://www.flippingphysics.com/example-problem-finding-average-speed-for-pole-position-ndash-not-as-easy-as-you-think.html)
-  - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0012_lecture_notes_-_example_problem_-_finding_necessary_pole_position_speed.pdf)
+### 2. Introduction to Tip-to-Tail Vector Addition, Vectors and Scalars
+[![Introduction to Tip-to-Tail Vector Addition](https://img.youtube.com/vi/ZYl9-iz7nR8/0.jpg)](https://www.youtube-nocookie.com/embed/ZYl9-iz7nR8)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0049_lecture_notes_-_introduction_to_tip-to-tail_vector_addition_vectors_and_scalars.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/vectors-and-scalars.html)
+
+### 3. Introductory Tip-to-Tail Vector Addition Problem
+[![Introductory Tip-to-Tail Vector Addition Problem](https://img.youtube.com/vi/256Yn47knH4/0.jpg)](https://www.youtube-nocookie.com/embed/256Yn47knH4)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0008_lecture_notes_-_introduction_to_velocity_and_speed.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/tip-to-tail-vector-addition.html)
+
+### 4. Introduction to Vector Components
+[![Introduction to Vector Components](https://img.youtube.com/vi/Hjc8WwqqF6s/0.jpg)](https://www.youtube-nocookie.com/embed/Hjc8WwqqF6s)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0052_lecture_notes_-_introduction_to_vector_components.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/vector-components.html)
+
+### 5. Introduction to Component Vectors and Unit Vectors
+[![Introduction to Component Vectors and Unit Vectors](https://img.youtube.com/vi/S9hPYnYWNSQ/0.jpg)](https://www.youtube-nocookie.com/embed/S9hPYnYWNSQ)
+
+### 6. Introductory Vector Addition Problem using Component Vectors
+[![Introductory Vector Addition Problem](https://img.youtube.com/vi/q8TbXJEbeFg/0.jpg)](https://www.youtube-nocookie.com/embed/q8TbXJEbeFg)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0053_lecture_notes_-_introductory_vector_addition_problem_using_component_vectors_also_0054.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/introductory-vector-addition-problem.html)
+
+### 7. A Visually Complicated Vector Addition Problem using Component Vectors
+[![A Visually Complicated Vector Addition Problem](https://img.youtube.com/vi/e0rZI2JYGkY/0.jpg)](https://www.youtube-nocookie.com/embed/e0rZI2JYGkY)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0055_lecture_notes_-_a_visually_complicated_vector_addition_problem_using_component_vectors.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/complicated-vector-addition.html)
+
+### 8. An Introductory Vector Addition Problem using Unit Vectors
+[![An Introductory Vector Addition Problem using Unit Vectors](https://img.youtube.com/vi/nRcOGxcJmzw/0.jpg)](https://www.youtube-nocookie.com/embed/nRcOGxcJmzw)
+
+### 9. Introduction to the R Position Vector by way of an Example Problem
+[![Introduction to the R Position Vector](https://img.youtube.com/vi/1AdVOdOeX0Q/0.jpg)](https://www.youtube-nocookie.com/embed/1AdVOdOeX0Q)
+
+### 10. Using the R Position Vector to find Velocity and Acceleration - Example Problem
+[![Using the R Position Vector](https://img.youtube.com/vi/Z7aT8Efqb6E/0.jpg)](https://www.youtube-nocookie.com/embed/Z7aT8Efqb6E)
+
+### 11. How to use Cardinal Directions with Vectors
+[![How to use Cardinal Directions with Vectors](https://img.youtube.com/vi/UWn3u6kv1Wk/0.jpg)](https://www.youtube-nocookie.com/embed/UWn3u6kv1Wk)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0051_lecture_notes_-_how_to_use_cardinal_directions_with_vectors.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/cardinal-directions.html)
+
+## Optional Videos
+
+### 12. Using a Data Table to Make Vector Addition Problems Easier
+[![Using a Data Table to Make Vector Addition Problems Easier](https://img.youtube.com/vi/nwqu0RIsvV4/0.jpg)](https://www.youtube-nocookie.com/embed/nwqu0RIsvV4)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/_0053_lecture_notes_-_introductory_vector_addition_problem_using_component_vectors_also_0054.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/data-table.html)
