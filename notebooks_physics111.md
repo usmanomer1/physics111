@@ -1,70 +1,63 @@
 # Videos
 
-Below are the assigned videos for this week. 
-The videos are collapsible so once you're done with one, you can move to the next one.
+Below are the assigned videos for this week. The videos are collapsible so once you're done with one, you can move to the next one.
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading1" class="box"> **Introduction to DisplacementÂ and the Differences Between Displacement and Distance**</input></label></h4> 
-:open:
+<details>
+<summary><b>Introduction to Displacement and the Differences Between Displacement and Distance</b></summary>
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/uTQ4_AOae1g" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Introduction to Displacement](https://www.youtube-nocookie.com/embed/uTQ4_AOae1g)](https://www.flippingphysics.com/introduction-to-displacement.html)
 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0007_lecture_notes_-_displacement_versus_distance.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/introduction-to-displacement.html)
 
-```
+</details>
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading2" class="box"> **Introduction to Velocity and SpeedÂ and the differences between the two** </input></label></h4>
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/I16utd8d6JM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<details>
+<summary><b>Introduction to Velocity and Speed and the differences between the two</b></summary>
+
+[![Introduction to Velocity and Speed](https://www.youtube-nocookie.com/embed/I16utd8d6JM)](https://www.flippingphysics.com/introduction-to-velocity-and-speed.html)
 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0008_lecture_notes_-_introduction_to_velocity_and_speed.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/introduction-to-velocity-and-speed.html)
 
-```
+</details>
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading3" class="box"> **Average Velocity Example ProblemÂ with Three Velocities** </input></label></h4>
+<details>
+<summary><b>Average Velocity Example Problem with Three Velocities</b></summary>
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/WpdYBnyZOm8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Average Velocity Example](https://www.youtube-nocookie.com/embed/WpdYBnyZOm8)](https://www.flippingphysics.com/average-velocity-example-problem-with-three-velocities.html)
 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0009_lecture_notes_-_average_velocity_example_problem_with_three_velocities.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/average-velocity-example-problem-with-three-velocities.html)
 
-```
+</details>
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading4" class="box"> **Example Problem:Â Velocity and Speed are Different** </input></label></h4>
+<details>
+<summary><b>Example Problem: Velocity and Speed are Different</b></summary>
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/8AWvUvHlpcQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Example Problem](https://www.youtube-nocookie.com/embed/8AWvUvHlpcQ)](https://www.flippingphysics.com/example-problem-velocity-and-speed-are-different.html)
 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0010_lecture_notes_-_example_problem_-_velocity_and_speed_are_different.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/example-problem-velocity-and-speed-are-different.html)
 
-```
+</details>
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading5" class="box"> **Understanding and WalkingÂ Position as a function of Time Graphs**</input></label></h4>
+<details>
+<summary><b>Understanding and Walking Position as a function of Time Graphs</b></summary>
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Mjnu5ePzXDM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Understanding and Walking Graphs](https://www.youtube-nocookie.com/embed/Mjnu5ePzXDM)](https://www.flippingphysics.com/understanding-and-walking-graphs-of-position-as-a-function-of-time.html)
 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0011_lecture_notes_-_understanding_walking_and_graphing_position_as_a_function_of_time.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/understanding-and-walking-graphs-of-position-as-a-function-of-time.html)
 
-```
+</details>
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading6" class="box"> **Example Problem: Finding Average Speed for Pole Position** </input></label></h4>
+<details>
+<summary><b>Example Problem: Finding Average Speed for Pole Position</b></summary>
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/n8mC8V0_Rbo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Example Problem](https://www.youtube-nocookie.com/embed/n8mC8V0_Rbo)](https://www.flippingphysics.com/example-problem-finding-average-speed-for-pole-position-ndash-not-as-easy-as-you-think.html)
 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0012_lecture_notes_-_example_problem_-_finding_necessary_pole_position_speed.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/example-problem-finding-average-speed-for-pole-position-ndash-not-as-easy-as-you-think.html)
 
-```
+</details>
